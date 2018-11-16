@@ -1,3 +1,13 @@
+**Important:** I'm not the author of this repository!
+
+**This repository is not up to date with the npm package!** 
+
+Repository version: 0.1.8
+
+link to the original author / npm package: 
+https://www.npmjs.com/package/sorted-map
+==========
+
 sorted-map
 ==========
 
